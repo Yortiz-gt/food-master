@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962715955432",
+    "project_id": "foodmealgt",
+    "storage_bucket": "foodmealgt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962715955432:android:b30ae424fc74d9cfaa595d",
+        "android_client_info": {
+          "package_name": "com.example.base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5wi6Kcv4hhBh4AzpE0Bxq6ADELogz9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
